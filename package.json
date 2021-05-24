@@ -1,0 +1,26 @@
+{
+  "name": "@jpearce/ie-mcl",
+  "version": "1.0.0",
+  "description": "Example of PWA",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaredpearce/ie-mcl.git"
+  },
+  "keywords": [
+    "PWA"
+  ],
+  "author": "Jared Pearce",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jaredpearce/ie-mcl/issues"
+  },
+  "homepage": "https://github.com/jaredpearce/ie-mcl#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}

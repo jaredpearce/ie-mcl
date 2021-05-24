@@ -1,0 +1,7 @@
+{
+  "name": "Sample MCL",
+  "short_name": "claims",
+  "start_url": "/index.html",
+  "scope": ".",
+  "icons": []
+}
